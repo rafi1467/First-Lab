@@ -11,3 +11,6 @@
 .paragraph {
     font-size: 50px;
 }
+.flexible-div{
+    display: flex;
+}
