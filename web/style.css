@@ -1,0 +1,13 @@
+.design {
+    background-color: yellow;
+    color: purple;
+    font-size: 25px;
+    font-weight: 900;
+    padding: 50px;
+    margin: 70px;
+    border: 15px solid black;
+    border-radius: 22px;
+}
+.paragraph {
+    font-size: 50px;
+}
